@@ -1,5 +1,8 @@
 //Define the function called "multi" that expects 2 parameters:
-
+function multi(number1, number2){
+    let multiResult = number1*number2;
+    return multiResult;
+}
 
   //don't edit anything below this line
   var returnValue = multi(7,53812212);
